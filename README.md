@@ -1,3 +1,5 @@
+![First screen](image1.png)
+![Second screen](image2.png)
 
 # Storm Simple View
 
